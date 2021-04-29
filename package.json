@@ -1,0 +1,14 @@
+{
+  "name": "app-testing",
+  "version": "1.0.0",
+  "description": "All about Testing",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Joseph Madras",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
